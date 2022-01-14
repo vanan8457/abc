@@ -1,0 +1,4 @@
+org\acme\hibernatedemo\HibernateUtill.class
+hibernatedemo\pojo\Category.class
+org\acme\hibernatedemo\HibernateTester.class
+META-INF\panache-archive.marker
