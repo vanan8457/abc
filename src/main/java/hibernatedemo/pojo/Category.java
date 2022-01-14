@@ -2,7 +2,7 @@ package hibernatedemo.pojo;
 
 import javax.persistence.*;
 import java.io.Serializable;
-
+//aaa
 @Entity
 @Table(name="category")
 public class Category implements Serializable {
